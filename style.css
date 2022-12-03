@@ -1,0 +1,59 @@
+*{
+    padding: 0; 
+    margin: 0;
+    outline: 0;
+}
+body{
+    font-family: arial;
+    font-size: 20px;
+    color:black ;
+    background-image: url("image/bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+#main{}
+.nav {
+    padding: 20px 5px;
+}
+.logo{}
+.logo h2 {
+    width: 20%;
+    float: left;
+    overflow: hidden;
+}
+.navbar{}
+.navbar ul{ list-style:none; }
+.navbar ul li {
+    float: right;
+}
+.navbar ul li a {
+    text-decoration: none;
+    display: block;
+    padding: 12px;
+    font-size: 24px;
+    color: #000;
+}
+.content{}
+.mainc {
+    float: left;
+    overflow: hidden;
+     margin-top: 200px;
+    width: 50%;
+}
+.mainc h1 {
+   margin: 20px 10px;
+    
+  
+}
+.mainc p {
+    margin: 20px 10px;
+}
+.mlogo {
+    width: 50%;
+    float: right;
+    margin-top: 212px;
+}
+.btn{}
+.btn1{}
